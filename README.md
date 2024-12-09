@@ -52,6 +52,8 @@ Furthermore, a user should be able to view reviews for a book. A user can reques
  from the Epics. Each task must be assigned to at least 1 member. Distribute the
  workload evenly over the two sprints. The tasks status and general progress should
  constantly be updated as you perform tasks. Each sprint will take 10 days.
+ ![9](https://github.com/user-attachments/assets/a7a3f02f-00ff-4158-be84-71907c227345)
+
 
 
  
